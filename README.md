@@ -34,7 +34,7 @@ packed version of [passy/angular-masonry](https://github.com/passy/angular-mason
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
     <!-- angular-masonry-packed -->
-    <script src="//cdn.jsdelivr.net/angular.masonry-packed/0.14.5/angular-masonry-packed.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/angular-masonry-packed@0.14.4/dist/angular-masonry-packed.min.js"></script>
     ```
 
     4. when using downloaded files
